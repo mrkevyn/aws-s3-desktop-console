@@ -2,6 +2,10 @@
 
 Aplicação Desktop desenvolvida em Python para gerenciamento de arquivos no Amazon S3.
 
+## 📸 Demonstração
+
+![AWS S3 Desktop Console](images/tela-principal.png)
+
 ## Funcionalidades
 
 - Upload de arquivos
